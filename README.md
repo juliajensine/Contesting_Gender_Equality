@@ -10,7 +10,7 @@
 
 3. Prepare the data:
    Download data: https://zenodo.org/records/15480855
-   Ajust path in Setup file
+   Adjust path in Setup file
 
 5. Prepare Data:
    Run 01_Notebook_SetUp.ipynb
