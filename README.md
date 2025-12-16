@@ -12,7 +12,7 @@
    Download data: https://zenodo.org/records/15480855
    Ajust path in Setup file
 
-5. Prepare Data
+5. Prepare Data:
    Run 01_Notebook_SetUp.ipynb
 
 7. Train Classifier:
